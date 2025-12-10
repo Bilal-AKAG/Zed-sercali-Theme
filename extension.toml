@@ -1,0 +1,7 @@
+id = "sercali"
+name = "Sercali"
+version = "0.0.1"
+schema_version = 1
+authors = ["Bilal <bilal.ali.irp.dev@gmail.com"]
+description = "A Sercali theme family with Blur and Opaque variants."
+themes = ["themes/sercali.json"]
