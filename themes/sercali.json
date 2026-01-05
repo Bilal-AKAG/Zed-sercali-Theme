@@ -2,10 +2,6 @@
 	"$schema": "https://zed.dev/schema/themes/v0.2.0.json",
 	"name": "Sercali",
 	"author": "Antigravity",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/zed-industries/extensions"
-	},
 	"themes": [
 		{
 			"name": "Sercali Dark (High Blur)",
