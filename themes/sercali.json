@@ -4,7 +4,7 @@
 	"author": "Antigravity",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/zed-industries/extensions.git"
+		"url": "https://github.com/zed-industries/extensions"
 	},
 	"themes": [
 		{
