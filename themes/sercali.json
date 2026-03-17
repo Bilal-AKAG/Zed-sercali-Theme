@@ -109,7 +109,7 @@
 				"deleted.background": "#ff7f7f33",
 				"deleted.border": "#ff7f7f",
 				"error": "#ff7f7f",
-				"error.background": "#ff7f7f33",
+				"error.background": "#3a1010",
 				"error.border": "#ff7f7f",
 				"hidden": "#676e95",
 				"hidden.background": "#00000000",
@@ -139,7 +139,7 @@
 				"unreachable.background": "#282a36",
 				"unreachable.border": "#676e95",
 				"warning": "#ffcb6b",
-				"warning.background": "#ffcb6b33",
+				"warning.background": "#3a2a10",
 				"warning.border": "#ffcb6b",
 				"players": [
 					{
