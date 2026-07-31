@@ -5,7 +5,7 @@
 
 A **Gilded Void** theme family for Zed: deep neutral basalts with Gold, Teal, and Malachite accents.
 
-![Built For Zed](https://img.shields.io/badge/Built%20For-Zed-2f7fd3?style=for-the-badge&labelColor=0f1720) ![Downloads](https://img.shields.io/badge/Downloads-4.5K%2B-d97706?style=for-the-badge&labelColor=0f1720) ![Version](https://img.shields.io/badge/Version-0.0.1-1f9d8b?style=for-the-badge&labelColor=0f1720) ![License](https://img.shields.io/badge/License-MIT-6b7280?style=for-the-badge&labelColor=0f1720)
+![Built For Zed](https://img.shields.io/badge/Built%20For-Zed-2f7fd3?style=for-the-badge&labelColor=0f1720) ![Downloads](https://img.shields.io/badge/Downloads-20K%2B-d97706?style=for-the-badge&labelColor=0f1720) ![Version](https://img.shields.io/badge/Version-0.0.1-1f9d8b?style=for-the-badge&labelColor=0f1720) ![License](https://img.shields.io/badge/License-MIT-6b7280?style=for-the-badge&labelColor=0f1720)
 
 </div>
 
